@@ -10,7 +10,7 @@ It follows the adventures of **Monkey D. Luffy**, a young pirate whose dream is 
 ## ⚓ Main Crew — Straw Hat Pirates
 | Character | Role | Ability |
 |------------|------|----------|
-| **Monkey D. Luffy** | Captain | Rubber powers (Gomu Gomu no Mi) |
+| **Monkey D. Luffy** | Captain | Rubber powers (Gomu Gomu no Mi or later revealed as Hito Hito no Mi: Model Nika) |
 | **Roronoa Zoro** | Swordsman | Three-Sword Style (Santoryu) |
 | **Nami** | Navigator | Weather control (Clima-Tact) |
 | **Usopp** | Sniper | Precision & creativity |
