@@ -1,5 +1,5 @@
 # My Favorite TV show series: *One Piece* ☠️
-![One Piece Banner(https://www.toei-animation.com/catalog/one-piece/)
+![One Piece Banner(https://www.toei-animation.com/wp-content/uploads/2019/02/collage-1920x595.png)
 
 # 🏴‍☠️ Overview
 **One Piece** is a Japanese anime and manga series created by *Eiichiro Oda*.  
