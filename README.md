@@ -5,7 +5,7 @@
 **One Piece** is a Japanese anime and manga series created by *Eiichiro Oda*.  
 It follows the adventures of **Monkey D. Luffy**, a young pirate whose dream is to find the legendary treasure known as the *One Piece* and become the **Pirate King**.
 
-> *"I'm gonna be King of the Pirates!"* — Monkey D. Luffy
+ *"I'm gonna be King of the Pirates!"* — Monkey D. Luffy
 
 ## ⚓ Main Crew — Straw Hat Pirates
 | Character | Role | Ability |
