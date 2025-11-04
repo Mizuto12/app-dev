@@ -22,6 +22,7 @@ It follows the adventures of **Monkey D. Luffy**, a young pirate whose dream is 
 | **Jinbe** | Helmsman | Fish-Man Karate |
 
 # My Favorite Movie: *Scott Pilgrim Vs The World* ️🎮🎸
+![Scott Banner](https://siouxfallsstatetheatre.org/wp-content/uploads/2024/06/scottpilgrim_webbanner.jpg)
 
 ## 🕹️ Overview
 **Scott Pilgrim vs. the World** is a 2010 action-comedy film directed by *Edgar Wright* and based on the *Scott Pilgrim* graphic novels by *Bryan Lee O’Malley*.  
