@@ -28,7 +28,7 @@ It follows the adventures of **Monkey D. Luffy**, a young pirate whose dream is 
 **Scott Pilgrim vs. the World** is a 2010 action-comedy film directed by *Edgar Wright* and based on the *Scott Pilgrim* graphic novels by *Bryan Lee O’Malley*.  
 It blends **comic book visuals**, **video game aesthetics**, and **romantic comedy** into one unique experience.
 
-> *“You once were a ve-gone, but now you will be gone.”* — Scott Pilgrim Todd
+> *“You once were a ve-gone, but now you will be gone.”* — Scott Pilgrim
 
 ## 🌟 Main Cast
 | Actor | Character | Description |
